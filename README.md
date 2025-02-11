@@ -32,4 +32,4 @@ Check out the live version here:
 
 To set up and run the project locally:
 
-2. Made with ❤️ by [Your Name](https://github.com/vamsikrishna58).
+2. Made with ❤️ by (https://github.com/vamsikrishna58).
