@@ -32,6 +32,4 @@ Check out the live version here:
 
 To set up and run the project locally:
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/calculator-web-app.git
+2. Made with ❤️ by [Your Name](https://github.com/vamsikrishna58).
